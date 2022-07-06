@@ -1,0 +1,15 @@
+C:\Users\indiv\source\repos\Sugar\Sugar\bin\Debug\net6.0\Sugar.exe
+C:\Users\indiv\source\repos\Sugar\Sugar\bin\Debug\net6.0\Sugar.deps.json
+C:\Users\indiv\source\repos\Sugar\Sugar\bin\Debug\net6.0\Sugar.runtimeconfig.json
+C:\Users\indiv\source\repos\Sugar\Sugar\bin\Debug\net6.0\Sugar.dll
+C:\Users\indiv\source\repos\Sugar\Sugar\bin\Debug\net6.0\Sugar.pdb
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.csproj.AssemblyReference.cache
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.AssemblyInfoInputs.cache
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.AssemblyInfo.cs
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.csproj.CoreCompileInputs.cache
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.dll
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\refint\Sugar.dll
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.pdb
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\Sugar.genruntimeconfig.cache
+C:\Users\indiv\source\repos\Sugar\Sugar\obj\Debug\net6.0\ref\Sugar.dll
